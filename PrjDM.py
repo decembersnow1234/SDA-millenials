@@ -27,7 +27,7 @@ def load_data(file_path, file_inside_zip=None):
         st.stop()
 
 # Nom du fichier compressé et du fichier CSV à l'intérieur
-file_path = "wifi_usage_data.zip"
+file_path = "SDA-millenials/Downloads/wifi_usage_data.zip"
 file_inside_zip = "wifi_usage_data.csv"
 
 # Charger les données
